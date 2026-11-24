@@ -1,0 +1,51 @@
+Country,Branch,n,pct
+Australia,Professional developer,3652,0.7042036251446201
+Australia,Codes as part of work,634,0.12225221750867721
+Australia,Learning to code,301,0.058040879290397224
+Australia,Hobbyist,463,0.0892788276128037
+Australia,Former developer or other,136,0.026224450443501735
+Brazil,Professional developer,5129,0.8007806401249025
+Brazil,Codes as part of work,551,0.08602654176424668
+Brazil,Learning to code,422,0.06588602654176424
+Brazil,Hobbyist,209,0.03263075722092115
+Brazil,Former developer or other,94,0.014676034348165496
+Canada,Professional developer,6708,0.7445887445887446
+Canada,Codes as part of work,779,0.08646908646908646
+Canada,Learning to code,644,0.07148407148407149
+Canada,Hobbyist,663,0.0735930735930736
+Canada,Former developer or other,215,0.023865023865023864
+France,Professional developer,6052,0.7594428410089096
+France,Codes as part of work,715,0.08972267536704731
+France,Learning to code,671,0.0842012799598444
+France,Hobbyist,356,0.04467310829464174
+France,Former developer or other,175,0.021960095369557033
+Germany,Professional developer,13484,0.7349029867015479
+Germany,Codes as part of work,2054,0.11194680619141051
+Germany,Learning to code,1111,0.0605515587529976
+Germany,Hobbyist,1338,0.07292347939829955
+Germany,Former developer or other,361,0.019675168955744494
+India,Professional developer,15223,0.6684083424807903
+India,Codes as part of work,1297,0.05694840834248079
+India,Learning to code,4704,0.20654226125137212
+India,Hobbyist,1261,0.055367727771679476
+India,Former developer or other,290,0.012733260153677277
+Netherlands,Professional developer,4344,0.76077057793345
+Netherlands,Codes as part of work,540,0.09457092819614711
+Netherlands,Learning to code,421,0.07373029772329247
+Netherlands,Hobbyist,276,0.04833625218914186
+Netherlands,Former developer or other,129,0.022591943957968475
+Poland,Professional developer,4507,0.7546885465505693
+Poland,Codes as part of work,436,0.07300736771600803
+Poland,Learning to code,562,0.09410582719357
+Poland,Hobbyist,388,0.06496985934360348
+Poland,Former developer or other,79,0.013228399196249163
+United Kingdom,Professional developer,10751,0.7562073573890413
+United Kingdom,Codes as part of work,1373,0.09657452345783217
+United Kingdom,Learning to code,743,0.0522613772244496
+United Kingdom,Hobbyist,976,0.06865020749806569
+United Kingdom,Former developer or other,374,0.02630653443061124
+United States,Professional developer,35882,0.755760562786975
+United States,Codes as part of work,4573,0.09631829478916551
+United States,Learning to code,2596,0.05467795610598593
+United States,Hobbyist,3315,0.06982181220775939
+United States,Former developer or other,1112,0.02342137411011416

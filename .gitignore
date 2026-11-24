@@ -1,0 +1,16 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*_cache/
+*_files/
+
+# Raw and processed data (too large for GitHub; see data/README.md)
+data/raw/*.csv
+data/processed/*
+!data/processed/.gitkeep
+
+# Rendered HTML (the Markdown report is the GitHub-friendly version)
+*.html
+.DS_Store

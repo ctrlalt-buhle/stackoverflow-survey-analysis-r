@@ -1,0 +1,5 @@
+step,rows
+Rows read (3 surveys combined),245891
+Rows with a missing / non-country value removed,2860
+Rows outside the top 10 countries removed,99962
+Rows in the analysis dataset,143069

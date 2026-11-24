@@ -1,0 +1,5 @@
+variable,measure,strength
+Age group,"Cramer's V (0 = none, 1 = perfect)",0.34936019444152183
+Education level,"Cramer's V (0 = none, 1 = perfect)",0.2803711337740738
+Years of coding,Eta-squared (share of variance explained),0.1223851781076077
+Country,"Cramer's V (0 = none, 1 = perfect)",0.1028119929578047

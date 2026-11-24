@@ -1,0 +1,21 @@
+type,status,rank,tech,respondents,pct_of_answerers
+Database,Use now,1,PostgreSQL,52401,0.44430972205735214
+Database,Use now,2,MySQL,51928,0.4402991402262206
+Database,Use now,3,SQLite,37468,0.31769234682629854
+Database,Use now,4,MongoDB,31127,0.2639268090013397
+Database,Use now,5,Microsoft SQL Server,30915,0.2621292543539826
+Database,Want to use,1,PostgreSQL,48027,0.4904567874758739
+Database,Want to use,2,MySQL,28812,0.2942311816427193
+Database,Want to use,3,MongoDB,28627,0.29234194213821063
+Database,Want to use,4,Redis,28330,0.289308946825567
+Database,Want to use,5,SQLite,26662,0.2722751549686999
+Language,Use now,1,JavaScript,91378,0.6448648915674554
+Language,Use now,2,HTML/CSS,77385,0.5461147063182334
+Language,Use now,3,Python,71734,0.5062349595274557
+Language,Use now,4,SQL,68298,0.4819867185129251
+Language,Use now,5,TypeScript,49682,0.3506114988602762
+Language,Want to use,1,JavaScript,59474,0.44988237429935174
+Language,Want to use,2,Python,59120,0.4472045930755906
+Language,Want to use,3,TypeScript,49839,0.376999826019864
+Language,Want to use,4,HTML/CSS,49622,0.3753583612584059
+Language,Want to use,5,SQL,46972,0.35531282384889445

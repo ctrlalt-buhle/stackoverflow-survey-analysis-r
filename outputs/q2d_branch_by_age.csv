@@ -1,0 +1,36 @@
+Branch,AgeGroup,n,pct
+Professional developer,Under 18 years old,589,0.005627800762476232
+Professional developer,18-24 years old,18267,0.17453826235679684
+Professional developer,25-34 years old,46409,0.44343056975510947
+Professional developer,35-44 years old,24999,0.23886144526509903
+Professional developer,45-54 years old,9531,0.09106718008006956
+Professional developer,55-64 years old,3913,0.03738808893645076
+Professional developer,65 years or older,951,0.009086652843998127
+Codes as part of work,Under 18 years old,313,0.024581795334956413
+Codes as part of work,18-24 years old,2564,0.20136652791957904
+Codes as part of work,25-34 years old,4196,0.32953742244561374
+Codes as part of work,35-44 years old,3002,0.2357653341710516
+Codes as part of work,45-54 years old,1655,0.12997722453467367
+Codes as part of work,55-64 years old,781,0.061336684206392836
+Codes as part of work,65 years or older,222,0.017435011387732662
+Learning to code,Under 18 years old,2649,0.2233181588265048
+Learning to code,18-24 years old,7249,0.6111111111111112
+Learning to code,25-34 years old,1317,0.11102680829539707
+Learning to code,35-44 years old,401,0.03380542910133198
+Learning to code,45-54 years old,151,0.012729725172820772
+Learning to code,55-64 years old,72,0.006069802731411229
+Learning to code,65 years or older,23,0.0019389647614230314
+Hobbyist,Under 18 years old,4651,0.532699576222655
+Hobbyist,18-24 years old,2346,0.2686977436719734
+Hobbyist,25-34 years old,658,0.07536364677585615
+Hobbyist,35-44 years old,399,0.04569923261940213
+Hobbyist,45-54 years old,248,0.028404535562936664
+Hobbyist,55-64 years old,189,0.021647004924979958
+Hobbyist,65 years or older,240,0.02748826022219677
+Former developer or other,Under 18 years old,26,0.008977900552486187
+Former developer or other,18-24 years old,204,0.07044198895027624
+Former developer or other,25-34 years old,630,0.2175414364640884
+Former developer or other,35-44 years old,855,0.29523480662983426
+Former developer or other,45-54 years old,527,0.18197513812154695
+Former developer or other,55-64 years old,342,0.1180939226519337
+Former developer or other,65 years or older,312,0.10773480662983426

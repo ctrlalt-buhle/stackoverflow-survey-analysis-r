@@ -1,0 +1,36 @@
+Education,Branch,n,pct
+School (primary / secondary),Professional developer,5553,0.31235234559568004
+School (primary / secondary),Codes as part of work,1138,0.06401169985375182
+School (primary / secondary),Learning to code,5146,0.28945888176397794
+School (primary / secondary),Hobbyist,5761,0.3240521993475082
+School (primary / secondary),Former developer or other,180,0.010124873439082012
+"Some college, no degree",Professional developer,11776,0.6942168248540942
+"Some college, no degree",Codes as part of work,1595,0.09402817897777516
+"Some college, no degree",Learning to code,2138,0.1260390261156635
+"Some college, no degree",Hobbyist,1092,0.06437540529387491
+"Some college, no degree",Former developer or other,362,0.02134056475859223
+Associate degree,Professional developer,3383,0.7638293068412734
+Associate degree,Codes as part of work,402,0.0907654097990517
+Associate degree,Learning to code,367,0.08286294874689547
+Associate degree,Hobbyist,181,0.04086701286972228
+Associate degree,Former developer or other,96,0.021675321743057124
+Bachelor's degree,Professional developer,53405,0.8452833175055398
+Bachelor's degree,Codes as part of work,4400,0.06964229186451408
+Bachelor's degree,Learning to code,3309,0.05237416904083571
+Bachelor's degree,Hobbyist,899,0.014229186451408674
+Bachelor's degree,Former developer or other,1167,0.018471035137701805
+Master's degree,Professional developer,26267,0.8278024644669251
+Master's degree,Codes as part of work,3465,0.10919920582395765
+Master's degree,Learning to code,704,0.02218650531026441
+Master's degree,Hobbyist,438,0.013803535974283824
+Master's degree,Former developer or other,857,0.027008288424569035
+Doctoral / professional degree,Professional developer,4027,0.6365791969649067
+Doctoral / professional degree,Codes as part of work,1787,0.28248498261144483
+Doctoral / professional degree,Learning to code,89,0.014068921909579512
+Doctoral / professional degree,Hobbyist,215,0.033986721466961745
+Doctoral / professional degree,Former developer or other,208,0.032880177047107176
+Other,Professional developer,1231,0.5170096598068039
+Other,Codes as part of work,154,0.06467870642587148
+Other,Learning to code,360,0.1511969760604788
+Other,Hobbyist,555,0.23309533809323812
+Other,Former developer or other,81,0.034019319613607726

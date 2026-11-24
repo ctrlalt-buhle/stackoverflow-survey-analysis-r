@@ -1,0 +1,12 @@
+EdLevel,Education,n
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",School (primary / secondary),14395
+Primary/elementary school,School (primary / secondary),3383
+Some college/university study without earning a degree,"Some college, no degree",16963
+"Associate degree (A.A., A.S., etc.)",Associate degree,4429
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",Bachelor's degree,63180
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",Master's degree,31731
+"Other doctoral degree (Ph.D., Ed.D., etc.)",Doctoral / professional degree,3096
+"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",Doctoral / professional degree,2374
+"Professional degree (JD, MD, etc.)",Doctoral / professional degree,856
+Something else,Other,2381
+NA,NA,281
